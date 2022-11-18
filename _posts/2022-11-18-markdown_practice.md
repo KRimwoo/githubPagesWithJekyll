@@ -19,10 +19,20 @@ _italic_
 **bold**
 __bold__
 
-~strikethrough~
+~~strikethrough~~
 
--unodered list1
-*unodered list2
+<u>underscore</u>
+
+[link](https://www.naver.com)
+
+> quote
+>> quote
+
+1. ordered list1
+2. ordered list2
+
+- unodered list1
+* unodered list2
 
 ```python
 print()#python code
