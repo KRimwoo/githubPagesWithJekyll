@@ -5,15 +5,8 @@ date: "2022-11-18"
 categories: markdown language
 ---
 
-1. [Headings ](##To write headings...)
-2. [Italic ](## To write *italic*...)
-3. [Bold ](## To write **bold **... )
-4. [Strike through](## To write ~~strikethrough~~...)
-5. [Underscore ](## To write <u>underscore</u>...)
-6. [Link ](## To link a site address...)
-7. [Quote ](## To use quotation...)
-8. [lists ](## To list...)
-9. [Code ](## To write some code blocks...)
+1. this list will be replaced by the table of contents
+{:toc}
 
 
 ## To write headings...
@@ -29,7 +22,11 @@ There are 6 levels.
 ###### Heading level 6
 ~~~
 # This is level 1.
+{:.no_toc}
+and
 ###### This is level 6.
+{:.no_toc}
+
 
 ## To write *italic*...
 
