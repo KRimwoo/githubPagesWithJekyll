@@ -9,7 +9,7 @@ url:                   https://KRimwoo.github.io
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# baseurl:               '/hydejack-starter-kit'
+baseurl:               '/index.html'
 
 
 # General settings
@@ -25,8 +25,7 @@ title:                 WooRim's Blog
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Hello! This is Woorim's Blog!!!
 
 # A shorter description for the sidebar.
 #tagline:               Change `tagline` in `_config.yml`
@@ -51,10 +50,10 @@ author:
 menu:
   - title:             Postings 
     url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+  #- title:             Documentation
+  #  url:               /docs/
+  #- title:             About
+  #  url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
