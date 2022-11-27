@@ -173,8 +173,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                
-  shortname:    gitblog-woorim
+disqus: gitblog-woorim
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
