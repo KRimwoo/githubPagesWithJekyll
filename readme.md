@@ -87,7 +87,7 @@ November 29, 2022
 - local host 주소로 생성된 페이지 확인하기
 
 <aside>
-👉 위 항목을 완료한 뒤git add, commit, push를 해주고, `bundle exec jekyll serve` 를 실행하면 [localhost:4000](http://localhost:4000) 으로 접속했을 때 기본 jekyll 형식의 블로그에 내가 만든 post가 올라간 것을 확인할 수 있다.
+👉 위 항목을 완료한 뒤 git add, commit, push를 해주고, `bundle exec jekyll serve` 를 실행하면 [localhost:4000](http://localhost:4000) 으로 접속했을 때 기본 jekyll 형식의 블로그에 내가 만든 post가 올라간 것을 확인할 수 있다.
 
 </aside>
 
