@@ -180,7 +180,7 @@ favicon의 경우assets/ 폴더에 icon폴더가 없다면 생성해주고, 맘�
 <aside>
 👉 [https://disqus.com/](https://disqus.com/) 에서 회원가입을 진행하고 “I want to install Disqus on my site”를 선택한다. >> Create a new site 를 진행하고 website name을 설정해준다.  >> Platform은 Jekyll을 선택해준다.  >> Install Instruction확인 >> Configure단계에서 website name은 동일하게,  URL에 github.io 주소를 입력해준다.  >>  Complete setup
 
-이후에 _config.yml 파일에서 post의 comment 영역을 찾아 true로 바꾸어주고, comment setting 의 <username>영역에 아까 입력했던 website name을 적용해주고 조금 기다리면 post에 댓글 기능이 생긴 것을 확인할 수 있다.
+이후에 _config.yml 파일에서 post의 comment 영역을 찾아 true로 바꾸어주고, comment setting 의 <username>영역에 disqus 입력했던 website name을 적용해주고 조금 기다리면 post에 댓글 기능이 생긴 것을 확인할 수 있다.
 
 ```yaml
 # # You can use the following to enable comments on all posts.
